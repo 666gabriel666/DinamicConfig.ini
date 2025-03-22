@@ -2,17 +2,17 @@
 	"Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":                                    
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 4
+		"DecayDestructionPeriodMultiplier": 1
 	},
   	"Blueprint'/Game/PrimalEarth/Structures/SleepingBag.SleepingBag'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 4
+		"DecayDestructionPeriodMultiplier": 1
 	},
 	"Blueprint'/Game/PrimalEarth/Structures/Campfire.Campfire'":
 	{
 		"DecayDestructionPeriod": 6500,
-		"DecayDestructionPeriodMultiplier": 4
+		"DecayDestructionPeriodMultiplier": 1
 	},
     "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
     {
